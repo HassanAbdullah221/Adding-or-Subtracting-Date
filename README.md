@@ -1,2 +1,2 @@
 # Adding-or-Subtracting-Datee
-You can but any two dates then adding or subtracting them easily using this code. 
+You can write any two dates and then add or subtract them easily using this code. 
